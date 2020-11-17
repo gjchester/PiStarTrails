@@ -2,7 +2,7 @@
 
 Taking time lapse star trails with a Raspberry Pi and Pi Camera
 
-This project is not original work, its taking snippets from here and there to make sopmethign that works for me.  This is mainly so i I have a record for the future.
+This project is not original work, its taking snippets from here and there to make something that works for me.  This is mainly so i I have a record for the future.
 
 The starting point was https://www.tring-web-design.co.uk/2020/04/raspberry-pi-camera-timelapse-tutorial/
 
