@@ -93,19 +93,7 @@ The script came from   https://core-electronics.com.au/tutorials/how-to-make-a-s
 
 Create a script called SafeShut.py in the /home/pi directory with this content
 
-  from gpiozero import Button #import button from the Pi GPIO library
-  import time # import time functions
-  import os #imports OS library for Shutdown control
-
-  stopButton = Button(26) # defines the button as an object and chooses GPIO 26
-
-  while True: #infinite loop
-      if stopButton.is_pressed: #Check to see if button is pressed
-         time.sleep(1) # wait for the hold time we want. 
-         if stopButton.is_pressed: #check if the user let go of the button
-             os.system("shutdown now -h") #shut down the Pi -h is or -r will reset
-     time.sleep(1) # wait to loop again so we don’t use the processor too much.
-
+SEE piShutdown.py file
 
 Replace Button(26) with 7 for the Pi 2 (or whatever GPIO line is in use)
 
