@@ -121,10 +121,7 @@ Taking the Tring Web disign scrpt Create a file called camera.sh in a foilder ca
 
 Create a script called camera.sh and enter the following lines.
 
-  #!/bin/bash
-  DATE=$(date +"%Y-%m-%d_%H%M%S")
-  /usr/bin/raspistill -vf -hf -w 1920 -h 1080 -ISO 800 -ss 6000000 -br 80 -co 100 -t 57600000 -tl 50000 -o /home/pi/camera/$DATE%05d.jpg
-
+SEE camera.sh file
 
 This calls the date into a variable DATE that we then use to be the root of our file name.   This allows the system to shotdown and restart and a new file name root should be generated each time, so files will not be overwritten.
 
