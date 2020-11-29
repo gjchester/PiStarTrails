@@ -154,7 +154,7 @@ OPTIONAL 2:   Consider duct taping over the LED's on your case if they may be ca
 
 ## Step 4 - Day after the capture (whenever you are ready) 
 
-Put the SD card into another computer and pull the files off.  If needed seperate them by time / date in to seperate folders, as the collowing command builds all the frames it finds into one movie.
+Put the SD card into another computer and pull the files off.  If needed seperate them by time / date in to seperate folders, as the following command builds all the frames it finds in a folder into one movie.  you can of course alter the command to ony use the root file name part for each days run.
 
 Run the following command to create a movie from the images
 
