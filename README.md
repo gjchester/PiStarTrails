@@ -23,6 +23,8 @@ Waterproof Box - Anything, currently I have one in a take-away food carton and t
 
 ![Image of One of the Boxes](https://github.com/gjchester/PiStarTrails/blob/main/449082E6-6475-4E5F-A2FB-40CE26B0C6D1.jpeg)
 
+I know there is a spare loose MicroSD card there, it got stuck under the Duct tape when I was testing before and I thought I'd lost it till I took this photo..
+
 ![Image of Other Box](https://github.com/gjchester/PiStarTrails/blob/main/3F0D1C6C-D086-4C86-AFC1-F0C03C01DAA9.jpeg)
 
 
